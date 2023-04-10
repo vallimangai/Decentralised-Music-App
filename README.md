@@ -39,4 +39,7 @@ We can find the transaction details in the ganache
 
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> ee7b6f51e7f5ce586667512dc837943995861a3f
