@@ -7,11 +7,11 @@ The aim is to allow musicians and distributors to share details of rights and ro
 
 # How to run the project
 
-git clone https://github.com/vallimangai/Decentralised-Music-App.git
-cd Decentralised-Music-App
-npm install
-### to start the prject
-npm start
+git clone https://github.com/vallimangai/Decentralised-Music-App.git </br>
+cd Decentralised-Music-App </br>
+npm install </br>
+### to start the prject </br>
+npm start </br>
 
 ## Working of websites
 The results of our decentralized royalty-based music application showed promising potential for the implementation of blockchain technology and smart contracts in the music industry. By utilizing IPFS to store and distribute music files, we were able to create a decentralized platform that allows artists to directly receive royalties for their music without the need for intermediaries or third-party payment processors.
